@@ -1,4 +1,4 @@
-noms=input("Entrer les noms des deux enfants (séparer d'un espace)")
+noms=input("Entrer les noms des deux enfants (séparés d'un espace)")
 noms=noms.split(" ")
 somme=0
 for i in range(2) :
